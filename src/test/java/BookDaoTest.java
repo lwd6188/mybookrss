@@ -11,7 +11,8 @@ public class BookDaoTest {
         //findBookAll();
 
         //2.测试findBookByName()
-        //findBookByName();
+        findBookByName();
+        //测试
     }
 
     static void findBookByName(){
